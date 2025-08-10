@@ -140,13 +140,3 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
-hooks:
-  - pre_build: "python generate_changelog.py"
-
-jobs:
-  build:
-    steps:
-      - name: 生成 Changelog
-        run: python generate_changelog.py
-      - name: 构建 MkDocs
-        run: mkdocs build
