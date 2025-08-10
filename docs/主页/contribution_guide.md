@@ -30,20 +30,20 @@
 ```text
 .
 ├── docs
-│   ├── contributing.md     # 本页
-│   ├── template.md         # 课程页面模板
-│   ├── index.md            # 主页
-│   ├── css/                # 本站用到的所有 css 样式
-│   ├── general/            # 通识选修课
-│   ├── images/             # 仅用来保存网站图标
-│   ├── js/                 # 本站用到的所有 js 脚本
-│   ├── major/              # 所有专业课程
-│   ├── math_phys/          # 数理基础课
+│   ├── 短学期课程/          # 短学期课程
+│   ├── 跨专业课程/          # 跨专业课程
+│   ├── 主页/                # 主页
+│   ├── 书评专区/            # 书评专区
+│   ├── 数理基础课/          # 数理基础课
+│   ├── 思政军体课/          # 思政军体课
+│   ├── 通识选修课/          # 通识选修课
+│   ├── 专业必修课/          # 专业必修课
+│   ├── 专业选修课/          # 专业必修课
 │   ├── others/             # 其他课程
 │   ├── political/          # 思政军体课
 │   ├── readings/           # 书评专区（待建设）
 │   └── short_term/         # 短学期课程
-├── hooks/              # 本文档专用扩展功能（默认仅开启 evaluations）
+├── site/               # MkDocs 构建（Build）生成的静态网站的输出目录
 ├── mkdocs.yml          # mkdocs 站点设置
 ├── overrides/          # mkdocs-material 个性主题设置
 └── requirements.txt    # 本站构建所需全部 python 依赖
