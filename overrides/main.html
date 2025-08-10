@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}  {# 继承默认内容 #}
+
+  <!-- Giscus 评论区 -->
+  <div class="giscus-comments">
+    <script src="https://giscus.app/client.js"
+        data-repo="XJTU-Qian-Xuesen-Class/XJTU-QXZ"
+        data-repo-id="R_kgDOPa96pg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOPa96ps4CuAI9"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+    </script>
+  </div>
+{% endblock %}

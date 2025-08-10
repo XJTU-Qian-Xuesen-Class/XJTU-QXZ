@@ -3,14 +3,17 @@ site_description: 钱学森班课程与学习指引站点
 site_author: 钱学组
 repo_name: XJTU-QXZ/QXSCourses    
 repo_url: https://github.com/XJTU-Qian-Xuesen-Class/XJTU-QXZ  # 仓库地址
+site_url: https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/  # 替换为你的实际 URL
 docs_dir: docs
 theme:
- name: material
- icon:
-   logo: material/library
- language: zh
+  custom_dir: overrides
+  name: material
+  icon:
+    logo: material/library
+  language: zh
+  encoding: utf-8
  
- palette:
+  palette:
     # Light mode
     - scheme: default
       primary: indigo
@@ -26,7 +29,7 @@ theme:
         icon: material/weather-sunny
         name: 白天模式
 
- features:
+  features:
     - header.repo
     - navigation.tabs #多个分类标签
     - navigation.top #顶部导航
@@ -36,6 +39,7 @@ theme:
     - navigation.instant #即时导航
     - search.suggest #搜索建议
     - layout.footer #页脚
+    - navigation.footer
     - toc.follow #目录跟随
     - navigation.tracking #导航追随
     - content.code.copy #代码复制
@@ -94,21 +98,12 @@ nav:
 
   - 书评专区: 书评专区/book_reviews.md
 
-
 extra:
   # 页脚可自定义内容（类似示例的存站说明、专业调整说明）
-  footer: 
-    <p>本站点仅供钱学森班内部学习交流使用，如有疑问请联系管理员。</p>
-
+  footer:
   # 社交链接（若有需求，可配置 GitHub、公众号等）
   social:
     - icon: material/github
-      #link: 
-
-
-  navigation:
-    next: 贡献指南
-    next_url: 
-
+      #link:
 
 copyright: Copyright © 钱院学辅
