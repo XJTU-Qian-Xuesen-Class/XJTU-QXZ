@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/changelog/</loc>
+         <lastmod>2025-08-10</lastmod>
+    </url>
+    <url>
          <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/advanced_data_structures_and_algorithm_analysis/</loc>
          <lastmod>2025-08-10</lastmod>
     </url>
@@ -70,6 +74,10 @@
     </url>
     <url>
          <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E9%A1%B5/course_template/</loc>
+         <lastmod>2025-08-10</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E9%A1%B5/update_history/</loc>
          <lastmod>2025-08-10</lastmod>
     </url>
     <url>
