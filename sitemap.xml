@@ -2,182 +2,602 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/changelog/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/advanced_data_structures_and_algorithm_analysis/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%9F%BA%E7%A1%80%E5%8A%9B%E5%AD%A6%E5%AE%9E%E9%AA%8C-2%200.5%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/compiler_principles/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/computer_networks/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99%E5%8F%8A%E6%88%90%E5%BD%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%203%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/computer_system_I/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%203.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/computer_system_II/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E8%83%BD%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%204%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/computer_system_III/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%BA%94%E7%94%A8%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/data_structure_basics/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%204%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/database_systems/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%203.5%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/discrete_mathematics_basics/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%83%AD%E5%B7%A5%E5%9F%BA%E7%A1%80%E2%85%A0%202.5%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/introduction_to_artificial_intelligence/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%BD%A6%E9%97%B4%E6%99%BA%E8%83%BD%E6%89%A7%E8%A1%8C%E7%B3%BB%E7%BB%9F%E6%8A%80%E6%9C%AF%202.5%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/introduction_to_theoretical_computer_science/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%99%BA%E8%83%BD%E5%88%B6%E9%80%A0%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%EF%BC%88%E9%92%B1%EF%BC%89%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/object_oriented_programming/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9FII%203.5%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/professional_core_course/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%9F%BA%E4%BA%8EPBL%EF%BC%88Project-Based%20Learning%EF%BC%89%E7%9A%84%E7%A7%91%E7%A0%94%E8%AE%AD%E7%BB%83%208%204-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/programming_and_algorithm_basics/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%BA%94%E7%94%A8%E6%8A%80%E6%9C%AF%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/professional_elective_course/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E5%8A%9B%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%EF%BC%88%E8%8B%B1%EF%BC%89%203.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E7%A8%B3%E6%80%81%E5%88%86%E6%9E%90%204%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E5%8A%9B%E8%AE%BE%E5%A4%87%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86%202%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%9C%BA%E5%AD%A6%204.5%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E6%9D%90%E6%96%99%E5%9F%BA%E7%A1%80%202%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2%204%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E9%AB%98%E5%8E%8B%E7%94%B5%E6%8A%80%E6%9C%AF%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E4%BC%A0%E7%83%AD%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89%203.5%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%82%A8%E8%83%BD%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%85%88%E8%BF%9B%E5%88%B6%E5%86%B7%E4%BD%8E%E6%B8%A9%E6%8A%80%E6%9C%AF%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99%E5%9F%BA%E7%A1%80%203%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89%203.5%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89%203.5%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%83%AD%E6%B5%81%E4%BD%93%E8%AF%BE%E7%A8%8B%E5%AE%9E%E9%AA%8C-1%201%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%83%AD%E6%B5%81%E4%BD%93%E8%AF%BE%E7%A8%8B%E5%AE%9E%E9%AA%8C-2%200.5%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%83%AD%E6%B5%81%E9%97%AE%E9%A2%98%E6%95%B0%E5%80%BC%E8%AE%A1%E7%AE%97%202%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%87%83%E7%83%A7%E5%AD%A6I%202.5%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%83%BD%E6%BA%90%E4%B8%8E%E5%8A%A8%E5%8A%9B%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%8A%9B%E7%94%9F%E4%BA%A7%E6%8A%80%E6%9C%AF%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%95II-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%203%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95II%203%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E8%83%BD%E8%BD%A6%E6%8E%A7%E5%88%B6%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1%EF%BC%88%E9%92%B1%EF%BC%89%201%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E9%92%B1%EF%BC%89%203%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%204%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E2%85%A1%203%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%EF%BC%88%E9%92%B1%EF%BC%89%204%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%EF%BC%88%E9%92%B1%EF%BC%89%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E6%94%BB%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%BF%90%E7%AD%B9%E5%AD%A6I%203%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
          <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E9%A1%B5/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
          <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E9%A1%B5/contribution_guide/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
          <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E9%A1%B5/course_template/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
          <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B8%BB%E9%A1%B5/update_history/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E4%B9%A6%E8%AF%84%E4%B8%93%E5%8C%BA/book_reviews/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81212/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/form_and_policy_I/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA322/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/form_and_policy_II/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/%E5%9B%BD%E9%98%B2%E6%95%99%E8%82%B2212/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/ideology_and_law/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/%E5%BD%A2%E5%8A%BF%E4%B8%8E%E6%94%BF%E7%AD%962/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/mao_zedong_thought_and_socialism_with_chinese_characteristics/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB311/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/marxism_basic_principles/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA221/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/military_theory/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86322/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/modern_chinese_history/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%AF%BE/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/political_military_course/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%AF%BE/%E5%B7%A5%E7%A8%8B%E5%9B%BE%E5%AD%A6%203%201-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%80%9D%E6%94%BF%E5%86%9B%E4%BD%93%E8%AF%BE/xi_jinping_thought_on_socialism_with_chinese_characteristics/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%AF%BE/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6II%204%202-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/general_physics_1/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%AF%BE/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%205%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/general_physics_2/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%AF%BE/%E7%94%B5%E8%B7%AF%204%202-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/general_physics_experiment_1/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%AF%BE/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3%E6%96%B9%E6%B3%95%E4%B8%8E%E5%AE%9E%E8%B7%B5%203%201-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/linear_algebra_1/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%AF%BE/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86%204%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/linear_algebra_2/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E5%8C%96%E5%AD%A6%E5%8E%9F%E7%90%86%205%201-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/mathematical_analysis_1/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%203%202-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/mathematical_analysis_2/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E2%85%A0%201%201-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/mathematical_foundations/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%EF%BC%88%E5%AE%9E%E9%AA%8C%EF%BC%89%E2%85%A1%201%202-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/probability_and_statistics/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%EF%BC%88%E7%90%86%E8%AE%BA%EF%BC%891%204%201-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E7%9F%AD%E5%AD%A6%E6%9C%9F%E8%AF%BE%E7%A8%8B/short_term_courses/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%EF%BC%88%E7%90%86%E8%AE%BA%EF%BC%892%204%202-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%B7%A8%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/interdisciplinary_courses/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%EF%BC%88%E7%90%86%E8%AE%BA%EF%BC%893%202%202-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE%E8%AF%BE/general_core_course/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90-1%206%201-1/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE%E8%AF%BE/general_elective_course/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90-2%206%201-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE%E8%AF%BE/general_elective_course_2/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%203%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
     <url>
-         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE%E8%AF%BE/other_elective_course/</loc>
-         <lastmod>2025-08-10</lastmod>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%202%202-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%204%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E6%95%B0%E7%90%86%E5%9F%BA%E7%A1%80%E8%AF%BE/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95I%204%201-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E5%8A%9B%E5%AD%A6/%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%20I%204%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E5%8A%9B%E5%AD%A6/%E6%8C%AF%E5%8A%A8%E5%8A%9B%E5%AD%A6%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E5%8A%9B%E5%AD%A6/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E2%85%A1%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E5%8A%9B%E5%AD%A6/%E8%AE%A1%E7%AE%97%E5%9B%BA%E4%BD%93%E5%8A%9B%E5%AD%A6%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%203%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%EF%BC%88%E9%92%B1%EF%BC%89%204%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96/%E8%BF%90%E7%AD%B9%E5%AD%A6I%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95I%203.5%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E6%99%BA%E9%80%A0%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%203%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E5%8A%9F%E8%83%BD%E6%9D%90%E6%96%99%E5%AD%A6%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E5%88%B6%E5%A4%87%E4%B8%8E%E8%A1%A8%E5%BE%81%E5%AE%9E%E9%AA%8C%201%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E5%8C%96%E5%AD%A6%202%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E7%89%A9%E7%90%86%202%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%202.5%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%89%A9%E8%81%94%E7%BD%91/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95I%203.5%202-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%89%A9%E8%81%94%E7%BD%91/%E6%97%A0%E7%BA%BF%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BD%91%E7%BB%9C%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%89%A9%E8%81%94%E7%BD%91/%E7%89%A9%E8%81%94%E7%BD%91%E5%8E%9F%E7%90%86%203.5%202-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%89%A9%E8%81%94%E7%BD%91/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%203%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8/%E5%82%A8%E8%83%BD%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8/%E5%85%88%E8%BF%9B%E5%88%B6%E5%86%B7%E4%BD%8E%E6%B8%A9%E6%8A%80%E6%9C%AF%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8/%E7%83%AD%E5%B7%A5%E5%9F%BA%E7%A1%80I%202.5%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8/%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%8A%9B%E7%94%9F%E4%BA%A7%E6%8A%80%E6%9C%AF3%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E5%88%B6%E5%A4%87%E4%B8%8E%E8%A1%A8%E5%BE%81%E5%AE%9E%E9%AA%8C%201%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E5%AD%A6%202%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E6%80%A7%E8%83%BD%202%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%202%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9D%90%E6%96%99/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%203%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%EF%BC%88%E9%92%B1%EF%BC%89%204%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F%EF%BC%88%E9%92%B1%EF%BC%89%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96/%E8%BF%90%E7%AD%B9%E5%AD%A6II%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E9%A3%9E%E8%A1%8C%E5%99%A8/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%BB%BC%E5%90%88%E5%AE%9E%E8%B7%B5%201%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E9%A3%9E%E8%A1%8C%E5%99%A8/%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA%E6%80%BB%E4%BD%93%E8%AE%BE%E8%AE%A1%202%204-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E9%A3%9E%E8%A1%8C%E5%99%A8/%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%BB%93%E6%9E%84%E5%8A%9B%E5%AD%A6%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E9%A3%9E%E8%A1%8C%E5%99%A8/%E8%88%AA%E7%A9%BA%E6%8E%A8%E8%BF%9B%E5%8E%9F%E7%90%86%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E9%A3%9E%E8%A1%8C%E5%99%A8/%E8%88%AA%E7%A9%BA%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%80%BB%E4%BD%93%E8%AE%BE%E8%AE%A1%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%83%BD%E5%8A%A8%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E9%A3%9E%E8%A1%8C%E5%99%A8/%E9%A3%9E%E8%A1%8C%E5%8A%A8%E5%8A%9B%E5%AD%A6%202%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E4%BF%A1%E6%81%AF/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%9F%BA%E7%A1%80%202.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E4%BF%A1%E6%81%AF/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E4%B8%8E%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%205.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E4%BF%A1%E6%81%AF/%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E7%94%B5%E7%A3%81%E6%B3%A2%204%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E4%BF%A1%E6%81%AF/%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%205.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9C%BA%E6%A2%B0/%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99%E5%9F%BA%E7%A1%80%203%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9C%BA%E6%A2%B0/%E6%9C%BA%E6%A2%B0%E5%88%B6%E9%80%A0%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9C%BA%E6%A2%B0/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%204%203-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E6%9C%BA%E6%A2%B0/%E6%9D%90%E6%96%99%E6%88%90%E5%BD%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E5%AF%BC%E8%AE%BA%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%BA%94%E7%94%A8%E6%8A%80%E6%9C%AF%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94/%E7%94%B5%E5%8A%9B%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%EF%BC%88%E8%8B%B1%EF%BC%89%203.5%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E7%A8%B3%E6%80%81%E5%88%86%E6%9E%90%204%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94/%E7%94%B5%E5%8A%9B%E8%AE%BE%E5%A4%87%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94/%E7%94%B5%E6%B0%94%E6%9D%90%E6%96%99%E5%9F%BA%E7%A1%80%202%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E8%BE%85%E4%BF%AE%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BE%85%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E7%94%B5%E6%B0%94/%E9%AB%98%E7%94%B5%E5%8E%8B%E6%8A%80%E6%9C%AF%203%203-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B%E7%B1%BB/%E5%9B%BD%E9%99%85%E4%BA%A4%E6%B5%81%E6%BC%94%E8%AE%B2%E4%B8%8E%E8%BE%A9%E8%AE%BA212/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B%E7%B1%BB/%E5%AD%A6%E6%9C%AF%E8%8B%B1%E8%AF%AD%E7%B4%A0%E5%85%BB211/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B%E7%B1%BB/%E6%89%98%E7%A6%8F%E5%BC%BA%E5%8C%96212/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B%E7%B1%BB/%E6%97%A5%E8%AF%AD%E5%9F%BA%E7%A1%80212/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B%E7%B1%BB/%E7%BB%BC%E5%90%88%E5%B7%A5%E7%A8%8B%E8%AE%AD%E7%BB%831%201%201-1/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B%E7%B1%BB/%E7%BB%BC%E5%90%88%E5%B7%A5%E7%A8%8B%E8%AE%AD%E7%BB%832%201%201-2/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E5%85%AC%E5%85%B1%E8%AF%BE%E7%A8%8B%E7%B1%BB/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E6%9C%AF%E5%86%99%E4%BD%9C%E4%B8%8E%E5%B1%95%E7%A4%BA212/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E7%A4%BE%E7%A7%91%E7%B1%BB%E8%AF%BE%E7%A8%8B/%E5%88%9B%E6%96%B0%E6%80%9D%E7%BB%B4%E5%9F%B9%E5%85%BB%E4%B8%8E%E5%AE%9E%E8%B7%B5221/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E7%A4%BE%E7%A7%91%E7%B1%BB%E8%AF%BE%E7%A8%8B/%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E8%A7%86%E9%87%8E221/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E7%A4%BE%E7%A7%91%E7%B1%BB%E8%AF%BE%E7%A8%8B/%E7%AE%A1%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80222/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E7%A4%BE%E7%A7%91%E7%B1%BB%E8%AF%BE%E7%A8%8B/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%A6%82%E8%AE%BA222/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E8%AF%BE/%E7%B3%BB%E7%BB%9F%E5%B7%A5%E7%A8%8B222/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E8%AF%BE/%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A1%E5%AF%BC%E8%AE%BA132/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E8%89%BA%E6%9C%AF%E7%B1%BB%E8%AF%BE%E7%A8%8B/%E8%89%BA%E6%9C%AF%E4%B8%8E%E7%A7%91%E5%AD%A6%E7%9A%84%E4%BA%A4%E6%B1%87122/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E8%89%BA%E6%9C%AF%E7%B1%BB%E8%AF%BE%E7%A8%8B/%E8%89%BA%E6%9C%AF%E6%AC%A3%E8%B5%8F%E4%B8%8E%E5%88%9B%E4%BD%9C%E4%B9%A6%E6%B3%95111/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E8%89%BA%E6%9C%AF%E7%B1%BB%E8%AF%BE%E7%A8%8B/%E8%89%BA%E6%9C%AF%E6%AC%A3%E8%B5%8F%E4%B8%8E%E5%88%9B%E4%BD%9C%E9%99%B6%E8%89%BA111/</loc>
+         <lastmod>2025-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://xjtu-qian-xuesen-class.github.io/XJTU-QXZ/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2%E8%AF%BE/%E8%89%BA%E6%9C%AF%E7%B1%BB%E8%AF%BE%E7%A8%8B/%E8%89%BA%E6%9C%AF%E6%AC%A3%E8%B5%8F%E4%B8%8E%E5%88%9B%E4%BD%9C%E9%9F%B3%E4%B9%90111/</loc>
+         <lastmod>2025-08-11</lastmod>
     </url>
 </urlset>
