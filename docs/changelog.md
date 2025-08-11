@@ -7,6 +7,22 @@
 
 ### 2025 年
 
+#### 2025-08-11
+- **提交**: [cef7b24](https://github.com/XJTU-Qian-Xuesen-Class/XJTU-QXS/commit/cef7b247ce5cd058a86d8c49dbfd314bcd914581)
+- **内容**: gjh_final
+
+#### 2025-08-10
+- **提交**: [237891e](https://github.com/XJTU-Qian-Xuesen-Class/XJTU-QXS/commit/237891e0a97b4d658d3179e3c5e8ba3a216c5b0b)
+- **内容**: haha
+
+#### 2025-08-10
+- **提交**: [6cdd48e](https://github.com/XJTU-Qian-Xuesen-Class/XJTU-QXS/commit/6cdd48e4c0d20a69505bc55e0b0550cbbc1e008f)
+- **内容**: gjh4.0
+
+#### 2025-08-10
+- **提交**: [ed26d98](https://github.com/XJTU-Qian-Xuesen-Class/XJTU-QXS/commit/ed26d985851605f901ad791004a7933f958e888f)
+- **内容**: change
+
 #### 2025-08-10
 - **提交**: [7652a80](https://github.com/XJTU-Qian-Xuesen-Class/XJTU-QXS/commit/7652a8038b879d7160e694212aec67042ecc402c)
 - **内容**: 三次提交
