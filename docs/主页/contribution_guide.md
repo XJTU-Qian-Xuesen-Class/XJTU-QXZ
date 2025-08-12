@@ -29,24 +29,24 @@
 
 ```text
 .
-├── docs
-│   ├── 短学期课程/          # 短学期课程
-│   ├── 跨专业课程/          # 跨专业课程
-│   ├── 主页/                # 主页
-│   ├── 书评专区/            # 书评专区
-│   ├── 数理基础课/          # 数理基础课
-│   ├── 思政军体课/          # 思政军体课
-│   ├── 通识选修课/          # 通识选修课
-│   ├── 专业必修课/          # 专业必修课
-│   ├── 专业选修课/          # 专业必修课
-│   ├── others/             # 其他课程
-│   ├── political/          # 思政军体课
-│   ├── readings/           # 书评专区（待建设）
-│   └── short_term/         # 短学期课程
-├── site/               # MkDocs 构建（Build）生成的静态网站的输出目录
-├── mkdocs.yml          # mkdocs 站点设置
-├── overrides/          # mkdocs-material 个性主题设置
-└── requirements.txt    # 本站构建所需全部 python 依赖
+│  catalog.txt
+│  generate_changelog.py
+│  mkdocs.yml
+│  
+├─.idea  
+├─docs
+│  │  changelog.md
+│  ├─主攻专业课
+│  ├─主页     
+│  ├─思政军体课
+│  ├─技术基础课
+│  ├─数理基础课
+│  ├─辅修专业课程
+│  └─通识教育课
+├─overrides
+│      main.html
+└─site
+         
 ```
 
 ### 贡献守则
