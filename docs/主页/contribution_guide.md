@@ -33,19 +33,19 @@
 │  generate_changelog.py
 │  mkdocs.yml
 │  
-├─.idea  
-├─docs
+├─ .idea  
+├─ docs
 │  │  changelog.md
-│  ├─主攻专业课
-│  ├─主页     
-│  ├─思政军体课
-│  ├─技术基础课
-│  ├─数理基础课
-│  ├─辅修专业课程
-│  └─通识教育课
-├─overrides
+│  ├─ 主攻专业课
+│  ├─ 主页     
+│  ├─ 思政军体课
+│  ├─ 技术基础课
+│  ├─ 数理基础课
+│  ├─ 辅修专业课程
+│  └─ 通识教育课
+├─ overrides
 │      main.html
-└─site
+└─ site
          
 ```
 
@@ -82,7 +82,3 @@
 
 如果你发现本网站存在侵犯您权益的内容，请通过 issue 联系我们，我们会进行删除。
 
-## 贡献者
-<a href="https://github.com/eryajf/learn-github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
-</a>
