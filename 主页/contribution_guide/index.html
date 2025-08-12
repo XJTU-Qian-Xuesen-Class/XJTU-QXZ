@@ -5650,24 +5650,23 @@
 <p>目前本站内容根据课程类别进行分组，然后在根据课程单独分页，每页内记录关于该课程的介绍、学习资料、学习技巧等。</p>
 <p>在源代码层面，使用 markdown 进行编写，每一门课程是一个文件夹，路径和网站链接路径保持一致，文件夹内 <code>index.md</code> 为该门课程的主页，文件夹内可以存放该课程的图片素材、学习资料等等。整体结构在 <code>mkdocs.yml</code> 文件中的 <code>nav</code> 部分定义。</p>
 <div class="highlight"><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a>.
-<a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a>├── docs
-<a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a>│   ├── 短学期课程/          # 短学期课程
-<a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a>│   ├── 跨专业课程/          # 跨专业课程
-<a id="__codelineno-3-5" name="__codelineno-3-5" href="#__codelineno-3-5"></a>│   ├── 主页/                # 主页
-<a id="__codelineno-3-6" name="__codelineno-3-6" href="#__codelineno-3-6"></a>│   ├── 书评专区/            # 书评专区
-<a id="__codelineno-3-7" name="__codelineno-3-7" href="#__codelineno-3-7"></a>│   ├── 数理基础课/          # 数理基础课
-<a id="__codelineno-3-8" name="__codelineno-3-8" href="#__codelineno-3-8"></a>│   ├── 思政军体课/          # 思政军体课
-<a id="__codelineno-3-9" name="__codelineno-3-9" href="#__codelineno-3-9"></a>│   ├── 通识选修课/          # 通识选修课
-<a id="__codelineno-3-10" name="__codelineno-3-10" href="#__codelineno-3-10"></a>│   ├── 专业必修课/          # 专业必修课
-<a id="__codelineno-3-11" name="__codelineno-3-11" href="#__codelineno-3-11"></a>│   ├── 专业选修课/          # 专业必修课
-<a id="__codelineno-3-12" name="__codelineno-3-12" href="#__codelineno-3-12"></a>│   ├── others/             # 其他课程
-<a id="__codelineno-3-13" name="__codelineno-3-13" href="#__codelineno-3-13"></a>│   ├── political/          # 思政军体课
-<a id="__codelineno-3-14" name="__codelineno-3-14" href="#__codelineno-3-14"></a>│   ├── readings/           # 书评专区（待建设）
-<a id="__codelineno-3-15" name="__codelineno-3-15" href="#__codelineno-3-15"></a>│   └── short_term/         # 短学期课程
-<a id="__codelineno-3-16" name="__codelineno-3-16" href="#__codelineno-3-16"></a>├── site/               # MkDocs 构建（Build）生成的静态网站的输出目录
-<a id="__codelineno-3-17" name="__codelineno-3-17" href="#__codelineno-3-17"></a>├── mkdocs.yml          # mkdocs 站点设置
-<a id="__codelineno-3-18" name="__codelineno-3-18" href="#__codelineno-3-18"></a>├── overrides/          # mkdocs-material 个性主题设置
-<a id="__codelineno-3-19" name="__codelineno-3-19" href="#__codelineno-3-19"></a>└── requirements.txt    # 本站构建所需全部 python 依赖
+<a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a>│  catalog.txt
+<a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a>│  generate_changelog.py
+<a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a>│  mkdocs.yml
+<a id="__codelineno-3-5" name="__codelineno-3-5" href="#__codelineno-3-5"></a>│  
+<a id="__codelineno-3-6" name="__codelineno-3-6" href="#__codelineno-3-6"></a>├─.idea  
+<a id="__codelineno-3-7" name="__codelineno-3-7" href="#__codelineno-3-7"></a>├─docs
+<a id="__codelineno-3-8" name="__codelineno-3-8" href="#__codelineno-3-8"></a>│  │  changelog.md
+<a id="__codelineno-3-9" name="__codelineno-3-9" href="#__codelineno-3-9"></a>│  ├─主攻专业课
+<a id="__codelineno-3-10" name="__codelineno-3-10" href="#__codelineno-3-10"></a>│  ├─主页     
+<a id="__codelineno-3-11" name="__codelineno-3-11" href="#__codelineno-3-11"></a>│  ├─思政军体课
+<a id="__codelineno-3-12" name="__codelineno-3-12" href="#__codelineno-3-12"></a>│  ├─技术基础课
+<a id="__codelineno-3-13" name="__codelineno-3-13" href="#__codelineno-3-13"></a>│  ├─数理基础课
+<a id="__codelineno-3-14" name="__codelineno-3-14" href="#__codelineno-3-14"></a>│  ├─辅修专业课程
+<a id="__codelineno-3-15" name="__codelineno-3-15" href="#__codelineno-3-15"></a>│  └─通识教育课
+<a id="__codelineno-3-16" name="__codelineno-3-16" href="#__codelineno-3-16"></a>├─overrides
+<a id="__codelineno-3-17" name="__codelineno-3-17" href="#__codelineno-3-17"></a>│      main.html
+<a id="__codelineno-3-18" name="__codelineno-3-18" href="#__codelineno-3-18"></a>└─site
 </code></pre></div>
 <h3 id="_5">贡献守则<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
 <p>你可以对本网站进行任何贡献，包括完善、更新页面内容，添加新页面，样式修改等等。</p>
