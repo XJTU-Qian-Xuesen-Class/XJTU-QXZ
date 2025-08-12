@@ -16,15 +16,15 @@ theme:
   palette:
     # Light mode
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/weather-night
         name: 夜间模式
     # Dark mode
     - scheme: slate
-      primary: blue
-      accent: blue
+      primary: purple
+      accent: purple
       toggle:
         icon: material/weather-sunny
         name: 白天模式
