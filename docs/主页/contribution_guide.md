@@ -81,3 +81,8 @@
 如果你发现本网站内容存在问题，请优先在对应页面下方评论区中进行评论，或者在 repo 中开一个 issue 来提出问题。
 
 如果你发现本网站存在侵犯您权益的内容，请通过 issue 联系我们，我们会进行删除。
+
+## 贡献者
+<a href="https://github.com/eryajf/learn-github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
+</a>
